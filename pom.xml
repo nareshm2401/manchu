@@ -8,6 +8,7 @@
       <name>Maven Repository Switchboard</name>
       <layout>default</layout>
       <url>http://repo1.maven.org/maven2</url>
+      <version>121.0.0</version>
       <snapshots>
         <enabled>false</enabled>
       </snapshots>
